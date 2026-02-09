@@ -2,7 +2,7 @@
   "name": "gh-pages-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https-git-url",
+  "homepage": "https://sanmichukwuka.github.io/gh-pages-react/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
