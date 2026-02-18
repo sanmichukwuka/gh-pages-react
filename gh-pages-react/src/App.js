@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My awesome GitHub Page running using react
+          React page loaded from custom domain
         </p>
         <a
           className="App-link"
